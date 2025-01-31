@@ -6,4 +6,5 @@ int main(){
     cout<<"again";
     cout<<"say hello";
     int sum();
+    int getname();
 }
