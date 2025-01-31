@@ -5,4 +5,5 @@ int main(){
     cout<<"next say hello";
     cout<<"again";
     cout<<"say hello";
+    int sum();
 }
